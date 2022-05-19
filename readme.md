@@ -12,3 +12,4 @@
 - ls
 - git add "file name"  (ready to be pushed)
 - Change
+- git reset --hard (to revert changes, restoring deleted things)
